@@ -13,3 +13,8 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 ### Change Log
 
 1. Move scripts and test file to src folder to match project folder structure.
+2. Constants moved out of method.
+3. Hash menthod for `sha3-512` pulled out to have a singleton method interface.
+4. Logical corrections made for easy return of value.
+5. JS-docs added for easy method redaibility.
+6. Code organized to have a cleaner and standard structure.
