@@ -18,3 +18,4 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 4. Logical corrections made for easy return of value.
 5. JS-docs added for easy method redaibility.
 6. Code organized to have a cleaner and standard structure.
+7. Test cases added for different scenarios to check if the generated has matches with the expected hash.
