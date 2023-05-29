@@ -2,12 +2,12 @@
   "name": "cbh-take-home-project",
   "version": "1.0.0",
   "description": "",
-  "main": " ",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest",
-    "start": "node index.js"
+    "start": "node src"
   },
-  "author": "",
+  "author": "Viktor Sydorenko",
   "license": "ISC",
   "devDependencies": {
     "jest": "^28.1.0"
